@@ -163,3 +163,4 @@ cython_debug/
 
 Data/
 .DS_Store
+Kmeans_example.ipynb
