@@ -163,7 +163,5 @@ cython_debug/
 
 Data/
 .DS_Store
-Kmeans_example.ipynb 
 *.tex
 *.pdf
-2_decision_trees_ANSWERS.ipynb
